@@ -1,0 +1,83 @@
+{
+  "name": "Nova Studio",
+  "handle": "@novastudio",
+  "language": "it",
+  "tagline": "Contenuti chiari, risultati veri.",
+  "colors": {
+    "background": "#EEF1EC",
+    "surface": "#FAFBF8",
+    "ink": "#121513",
+    "dark": "#0D110F",
+    "accent": "#2F6BFF",
+    "accent_dark": "#1F4FD1",
+    "accent_soft": "#BFD3FF",
+    "muted": "#7C8580",
+    "dark_glow": "#16336F"
+  },
+  "proportions": "60% background, 30% dark, 10% accent. One accent word per title. Never two accents in one frame.",
+  "typography": {
+    "display": {
+      "family": "Oswald",
+      "file": "display.ttf",
+      "google": "ofl/oswald/Oswald%5Bwght%5D.ttf",
+      "variable": true,
+      "weight": 600
+    },
+    "display_uppercase": true,
+    "body": {
+      "family": "DM Sans",
+      "file": "body.ttf",
+      "google": "ofl/dmsans/DMSans%5Bopsz,wght%5D.ttf",
+      "variable": true
+    },
+    "quote": {
+      "family": "Instrument Serif",
+      "file": "quote.ttf",
+      "google": "ofl/instrumentserif/InstrumentSerif-Italic.ttf",
+      "variable": false
+    }
+  },
+  "patterns": {
+    "accent_word": "Titles: exactly one word in accent colour + an accent full stop.",
+    "accent_block": "On video: the key word sits on a solid accent block with white text.",
+    "number_circle": "Steps and lists use a numbered circle.",
+    "strike": "Myth struck through in accent, truth underneath.",
+    "quote": "Quote font italic, max once per content."
+  },
+  "voice": {
+    "person": "noi",
+    "tone": [
+      "chiaro",
+      "amichevole",
+      "pratico"
+    ],
+    "do": [
+      "Esempi concreti presi dal settore del cliente",
+      "Una sola idea per contenuto"
+    ],
+    "dont": [
+      "Gergo tecnico non spiegato",
+      "Promesse di risultati garantiti"
+    ]
+  },
+  "cta": {
+    "format": "Scrivi {KEYWORD} nei commenti",
+    "promise": "Ti mandiamo la guida completa in DM.",
+    "keywords": [
+      "GUIDA",
+      "PIANO",
+      "CHECKLIST"
+    ]
+  },
+  "pillars": [
+    {
+      "name": "Strategia social",
+      "keyword": "PIANO"
+    },
+    {
+      "name": "Contenuti video",
+      "keyword": "GUIDA"
+    }
+  ],
+  "logo": null
+}
