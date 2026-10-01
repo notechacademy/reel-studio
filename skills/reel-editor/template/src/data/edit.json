@@ -1,0 +1,10 @@
+{
+ "example_label": "ESEMPIO",
+ "sections_total": 0, "question_label": "STEP {n} DI {total}", "question_pre": "", "questions": [],
+ "cards": [], "punches": [], "behind": [],
+ "scenes": [{"type": "kinetic-title", "from": 0, "to": 90, "props": {"dark": true, "words": [{"text": "REEL", "at": 6}, {"text": "*STUDIO*.", "at": 14}]}}],
+ "captions": {"keywords": [], "top": 1330, "hide_in_questions": true},
+ "end": null,
+ "cover": {"image": "cover_cut.png", "scale": 1, "origin": "0px 0px", "label": "@handle", "pills": ["CATEGORIA"], "lines": [[["TITOLO", "n"], [".", "dot"]]], "sub": "", "stickers": []},
+ "music": {"enabled": true, "bpm": 112, "file": null, "gain": 0.3}
+}
