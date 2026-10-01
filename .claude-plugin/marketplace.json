@@ -1,1 +1,1 @@
-{"name":"notech-academy","description":"Plugin del corso Notech Academy","owner":{"name":"Notech Academy"},"plugins":[{"name":"reel-studio","source":"./plugins/reel-studio","description":"Brand kit + montaggio automatico di reel con motion graphics (Remotion).","version":"0.1.1"}]}
+{"name":"reel-studio","description":"Plugin del corso Notech Academy","owner":{"name":"Notech Academy"},"plugins":[{"name":"reel-studio","source":"./plugins/reel-studio","description":"Brand kit + montaggio automatico di reel con motion graphics (Remotion).","version":"0.1.2"}]}
